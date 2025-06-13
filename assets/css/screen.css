@@ -760,10 +760,10 @@ hr {
 }
 
 .gh-content {
-  --content-spacing-multiplier: 1.5;
+  --content-spacing-multiplier: 0.7;
 
   position: relative;
-  margin-top: clamp(4rem, 3rem + 3.125vw, 8rem);
+  /* margin-top: clamp(4rem, 3rem + 3.125vw, 8rem); */
   line-height: 1.7;
 }
 
